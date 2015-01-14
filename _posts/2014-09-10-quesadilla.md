@@ -9,12 +9,13 @@ categories: lunch, dinner
 
 ## Ingredients
 - Tortillas
-- Cheese
+- Cheese - ideally 2 or more kinds
 - Butter or Oil
 - Extra Hot Sauce
 
 ## Sides
  - Guacamole
+ - Salsa
 
 ## Tools
 - Pan
